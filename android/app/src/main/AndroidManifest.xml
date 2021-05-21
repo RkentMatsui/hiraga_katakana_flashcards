@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.hiraga_katakana_flashcards">
    <application
-        android:label="hiraga_katakana_flashcards"
+        android:label="Hiragana Katakana Flashcard"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
